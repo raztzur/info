@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://deriveinberlin.com/sitemap.xml
